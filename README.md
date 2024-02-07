@@ -1,7 +1,7 @@
 # MC358: Fundamentos Matemáticos da Computação
 ## Segundo semestre de 2023
 - Aulas às segundas (19h-21h) e quartas (21h-23h) no CB04
-- [Prof. Dr. Hilder Vitor Lima Pereira] (https://hilder-vitor.github.io/index.html)
+- Prof. Dr. [Hilder Vitor Lima Pereira](https://hilder-vitor.github.io/index.html)
 
 Mais informações podem ser vistas [neste documento](https://drive.google.com/file/d/1Q8j2isig8yUXtiC9UARuf2gr6J_cYIG-/view), que tem uma tentativa de cronograma com tópicos. Essas informações estão sujeitas a mudanças (serão informadas em sala).
 
